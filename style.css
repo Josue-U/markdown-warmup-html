@@ -1,13 +1,25 @@
 body {
 	font-family: "Calibri", sans-serif;
+	background: orange;
 }
 
-#quote{
+.quote{
 	color: grey;
 	font-style: italic;
+	text-align: center;
 
 }
+
 
 h1{
 	color: purple;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+	margin-left: 45%;
+	margin-right: 45%;
 }
